@@ -1,0 +1,13 @@
+{
+  "home": "/home/berti",
+  "destination": "/home/berti/dev/dotfiles",
+  "files": [
+    "/home/berti/.bin/fish-ssh",
+    "/home/berti/.config/fish/config.fish",
+    "/home/berti/.config/MangoHud/MangoHud.conf",
+    "/home/berti/.local/share/konsole/OneHalfLight.colorscheme",
+    "/home/berti/.local/share/konsole/Profile 1.profile",
+    "/home/berti/.bashrc",
+    "/home/berti/.gitconfig"
+  ]
+}

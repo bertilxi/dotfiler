@@ -1,0 +1,20 @@
+{
+  "name": "dotfiler",
+  "version": "1.0.0",
+  "description": "dotfile backup tool",
+  "main": "main.ts",
+  "types": "main.ts",
+  "scripts": {
+    "start": "tsx main.ts",
+    "backup": "npm start config.json"
+  },
+  "author": "Fernando Berti <bertilxi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mkdirp": "^3.0.1",
+    "tsx": "^3.12.7"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.1"
+  }
+}
