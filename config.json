@@ -3,11 +3,23 @@
   "destination": "/home/berti/dev/dotfiles",
   "files": [
     "/home/berti/.bin/fish-ssh",
+
     "/home/berti/.config/fish/config.fish",
+    "/home/berti/.config/omf/init.fish",
+    "/home/berti/.config/fontconfig/fonts.conf",
     "/home/berti/.config/MangoHud/MangoHud.conf",
-    "/home/berti/.local/share/konsole/OneHalfLight.colorscheme",
-    "/home/berti/.local/share/konsole/Profile 1.profile",
+    "/home/berti/.config/environment.d/freetype.conf",
+
+    "/home/berti/.var/app/com.valvesoftware.Steam/.config/MangoHud/MangoHud.conf",
+
+    "/home/berti/.local/share/konsole/github-dark.colorscheme",
+    "/home/berti/.local/share/konsole/github-light.colorscheme",
+    "/home/berti/.local/share/konsole/profile.profile",
+
     "/home/berti/.bashrc",
-    "/home/berti/.gitconfig"
+    "/home/berti/.gitconfig",
+
+    "/home/berti/dev/bertilxi/fiber/.env",
+    "/home/berti/Pictures/wall1.jpg"
   ]
 }
